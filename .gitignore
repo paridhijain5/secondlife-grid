@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+.output
+
+# Environment files
+.env
+
+# VS Code
+.vscode
+
+# TanStack
+.tanstack/**
